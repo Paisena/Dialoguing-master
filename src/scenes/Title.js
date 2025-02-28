@@ -20,7 +20,7 @@ class Title extends Phaser.Scene {
 
         // load bitmap font
         this.load.bitmapFont('gem_font', 'font/gem.png', 'font/gem.xml')
-        this.load.bitmapFont('punk_font', 'font/punk_type.png', 'font/punk_type.xml')
+        this.load.bitmapFont('punk_font', 'font/Punk_type.png', 'font/Punk_type.xml')
     }
 
     create() {
